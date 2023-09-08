@@ -35,7 +35,8 @@ def save_data(dataframe, filename):
     print('Saving Data...')
     dataframe.to_csv(filename)
 
-
+# ---------------------------------------------------------------------------------------- #
+# MAIN (Runs functions)
 if __name__ == "__main__":
     print('Starting...')
 
