@@ -1,0 +1,86 @@
+,Animal ID,Name,DateTime,MonthYear,Date of Birth,Outcome Type,Outcome Subtype,Animal Type,Sex upon Outcome,Age upon Outcome,Breed,Color
+0,A803149,*Birch,8/31/2019 16:26,Aug-19,8/8/2019,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby
+1,A822928,*Primrose,1/24/2022 11:49,Jan-22,9/15/2010,Adoption,Foster,Cat,Spayed Female,11 years,Domestic Shorthair,Torbie
+2,A705205,*Dell,6/20/2015 16:25,Jun-15,3/30/2015,Adoption,Offsite,Cat,Neutered Male,2 months,Domestic Shorthair Mix,White/Blue Tabby
+3,A686459,*Lovey,9/21/2014 17:39,Sep-14,7/15/2014,Adoption,Foster,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie
+4,A833513,*Lemmy,5/13/2021 13:15,May-21,5/1/2011,Transfer,Partner,Cat,Neutered Male,10 years,Domestic Shorthair,Brown Tabby
+5,A827385,Mittens,1/27/2021 8:51,Jan-21,12/20/2019,Adoption,Foster,Cat,Spayed Female,1 year,Domestic Shorthair,Blue Tabby/White
+6,A725540,*Tiny,5/2/2016 13:32,May-16,4/8/2016,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby/White
+7,A729355,*Bridget,6/24/2016 14:31,Jun-16,2/11/2016,Transfer,Partner,Cat,Intact Female,4 months,Domestic Shorthair Mix,Torbie/Brown Tabby
+8,A842461,*Ruby,10/27/2021 9:50,Oct-21,8/5/2021,Adoption,Foster,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie
+9,A676139,*Iona,3/8/2017 7:51,Mar-17,4/9/2008,Adoption,Foster,Cat,Spayed Female,8 years,Domestic Shorthair Mix,Brown Tabby/White
+10,A662741,*Todd,10/5/2013 12:42,Oct-13,8/11/2013,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black
+11,A796941,*Carrot,8/3/2019 14:40,Aug-19,4/27/2019,Adoption,Foster,Cat,Neutered Male,3 months,Domestic Shorthair,Cream Tabby
+12,A731104,*Zakarin,9/20/2016 11:28,Sep-16,4/20/2016,Adoption,Foster,Cat,Neutered Male,5 months,Domestic Shorthair Mix,Orange Tabby
+13,A732051,*Cinnamon,8/8/2016 15:12,Aug-16,6/24/2016,Transfer,Partner,Cat,Intact Female,1 month,Domestic Shorthair Mix,Torbie
+14,A856357,*Manon,6/9/2022 9:08,Jun-22,3/27/2022,Adoption,Foster,Cat,Spayed Female,2 months,Domestic Shorthair,Black
+15,A845878,*Bruce,1/19/2022 15:25,Jan-22,10/5/2021,Adoption,Foster,Cat,Neutered Male,3 months,Domestic Shorthair,Blue
+16,A773488,*O'Malley,7/25/2018 6:31,Jul-18,4/29/2018,Adoption,Foster,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby/White
+17,A702402,*Tic,7/8/2015 8:55,Jul-15,4/6/2015,Adoption,Foster,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Orange Tabby/White
+18,A827274,*Fizzle,12/30/2020 15:24,Dec-20,9/2/2020,Transfer,Partner,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Blue Tabby
+19,A742748,Elsie,6/23/2018 20:45,Jun-18,1/27/2007,Adoption,Foster,Cat,Spayed Female,11 years,Domestic Shorthair Mix,White/Black
+20,A793783,Spinner,7/13/2019 14:54,Jul-19,4/20/2019,Adoption,Foster,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Orange Tabby
+21,A736505,Tommy,11/20/2016 17:44,Nov-16,9/19/2016,Adoption,Foster,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Brown Tabby
+22,A754796,*Guppy,9/30/2017 9:51,Sep-17,6/30/2017,Adoption,Foster,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Brown Tabby/White
+23,A794662,Sam,1/27/2022 12:41,Jan-22,5/10/2016,Adoption,Foster,Cat,Neutered Male,5 years,Domestic Shorthair,Brown Tabby/White
+24,A816306,*Jelly Bean,6/17/2020 13:23,Jun-20,4/12/2020,Adoption,Foster,Cat,Neutered Male,2 months,Domestic Shorthair,Black
+25,A787658,*Fergus,3/11/2019 0:00,Mar-19,1/17/2017,Transfer,Partner,Cat,Neutered Male,2 years,Domestic Shorthair Mix,Black
+26,A749133,*Cowboy,8/1/2020 8:12,Aug-20,4/5/2017,Adoption,Foster,Cat,Spayed Female,3 years,Domestic Shorthair Mix,White/Black
+27,A823494,*Macaroni,11/3/2020 9:13,Nov-20,8/17/2020,Adoption,Foster,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby/White
+28,A834933,*Salsa,5/30/2021 13:01,May-21,3/20/2021,Euthanasia,Suffering,Cat,Intact Female,2 months,Domestic Shorthair Mix,Brown Tabby
+29,A749348,*Toby,7/12/2017 9:48,Jul-17,5/4/2017,Adoption,Foster,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Brown Tabby/White
+30,A703672,*Chillon,4/13/2016 0:00,Apr-16,4/1/2015,Transfer,Partner,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Brown Tabby
+31,A692842,Caramel,12/4/2014 12:33,Dec-14,4/26/2014,Transfer,Partner,Cat,Spayed Female,7 months,Domestic Shorthair Mix,Orange Tabby
+32,A817291,*Sunny,8/8/2020 8:43,Aug-20,4/19/2020,Adoption,Foster,Cat,Spayed Female,3 months,Domestic Shorthair,Brown Tabby
+33,A645112,Sherlock,10/27/2016 15:24,Oct-16,1/3/2003,Transfer,Partner,Cat,Neutered Male,13 years,Domestic Shorthair Mix,Silver Tabby
+34,A489503,Dezi,9/21/2014 16:26,Sep-14,5/15/2007,Euthanasia,Suffering,Cat,Spayed Female,7 years,Domestic Shorthair Mix,White/Brown Tabby
+35,A677835,*Suzette,7/12/2014 11:41,Jul-14,4/29/2013,Adoption,Foster,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Torbie
+36,A817618,Pepper,6/24/2020 10:19,Jun-20,4/13/2020,Adoption,Foster,Cat,Spayed Female,2 months,Domestic Shorthair,Blue/White
+37,A755439,*Jasper,9/15/2017 15:14,Sep-17,7/21/2017,Adoption,Foster,Cat,Neutered Male,1 month,Domestic Shorthair Mix,Brown Tabby/White
+38,A806621,*Boo,10/22/2019 15:17,Oct-19,7/13/2019,Transfer,Partner,Cat,Intact Male,3 months,Domestic Shorthair Mix,Black
+39,A796408,*Elmer,6/8/2019 16:37,Jun-19,4/22/2019,Died,In Kennel,Cat,Intact Male,1 month,Domestic Shorthair,Blue
+40,A731663,*Onyx,9/14/2016 14:13,Sep-16,6/29/2016,Adoption,Foster,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black
+41,A723585,*Pee Wee,9/30/2016 13:16,Sep-16,2/19/2016,Adoption,Foster,Cat,Neutered Male,7 months,Domestic Shorthair Mix,Black
+42,A701643,*Chip,9/28/2015 15:03,Sep-15,3/4/2015,Transfer,Partner,Cat,Neutered Male,6 months,Domestic Shorthair Mix,Brown Tabby
+43,A681352,*Charlotte,7/12/2014 19:46,Jul-14,4/30/2014,Adoption,Foster,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Blue Tabby
+44,A712384,*Cassiopeia,10/1/2015 11:49,Oct-15,8/7/2015,Transfer,Partner,Cat,Intact Female,1 month,Domestic Shorthair Mix,Tortie
+45,A800666,*Odin,8/4/2019 13:56,Aug-19,6/15/2019,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair,Orange Tabby/White
+46,A801453,*Creampuff,8/11/2019 15:27,Aug-19,7/13/2019,Transfer,Partner,Cat,Intact Female,4 weeks,Domestic Shorthair,Brown Tabby/White
+47,A684115,*Snowcream,8/11/2014 15:17,Aug-14,7/19/2011,Transfer,Partner,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Cream Tabby/White
+48,A710402,Nevaeh,1/5/2020 13:52,Jan-20,7/22/2015,Transfer,Partner,Cat,Spayed Female,4 years,Domestic Shorthair Mix,Calico
+49,A774277,*Minnie,7/13/2018 12:58,Jul-18,8/17/2017,Transfer,Partner,Cat,Intact Female,10 months,Domestic Shorthair Mix,Black/White
+50,A859949,*Cuthbert,7/14/2022 8:43,Jul-22,3/21/2022,Transfer,Out State,Cat,Intact Male,3 months,Domestic Shorthair Mix,Black
+51,A725558,*Bailey,1/17/2017 9:13,Jan-17,4/30/2013,Adoption,Foster,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Brown Tabby
+52,A842551,Kit Kat,10/11/2021 17:45,Oct-21,10/4/2019,Transfer,Partner,Cat,Spayed Female,2 years,Domestic Shorthair,Brown Tabby/White
+53,A675116,*Melinda,5/9/2014 13:00,May-14,9/23/2013,Transfer,Partner,Cat,Spayed Female,7 months,Domestic Shorthair Mix,Tortie
+54,A736721,*Hayden,10/22/2016 16:01,Oct-16,10/16/2005,Transfer,Partner,Cat,Neutered Male,11 years,Domestic Shorthair Mix,Blue/White
+55,A763873,*Aparee,12/21/2017 15:53,Dec-17,12/17/2015,Transfer,Partner,Cat,Intact Female,2 years,Domestic Shorthair Mix,Torbie
+56,A863983,285 Grams,8/18/2022 18:21,Aug-22,7/27/2022,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair,Black/White
+57,A804523,*Maggie 168G,10/9/2019 18:05,Oct-19,9/8/2019,Transfer,Partner,Cat,Intact Female,4 weeks,Domestic Shorthair,Brown Tabby
+58,A789369,Precious,4/9/2019 14:15,Apr-19,3/3/2009,Transfer,Partner,Cat,Spayed Female,10 years,Domestic Shorthair Mix,Brown Tabby/White
+59,A824299,*Sakura,1/29/2021 11:40,Jan-21,10/10/2019,Adoption,Foster,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Brown Tabby
+60,A668178,*Owen,1/2/2014 18:37,Jan-14,11/9/2013,Adoption,Foster,Cat,Neutered Male,1 month,Domestic Shorthair Mix,Blue
+61,A741751,*Terrence,1/11/2017 13:30,Jan-17,1/7/2015,Transfer,Partner,Cat,Neutered Male,2 years,Domestic Shorthair Mix,Brown Tabby
+62,A787270,*Monty,1/28/2019 15:39,Jan-19,6/4/2018,Transfer,Partner,Cat,Intact Male,7 months,Domestic Shorthair Mix,Black Tabby/White
+63,A781464,Panther,10/10/2018 18:03,Oct-18,9/30/2011,Died,In Kennel,Cat,Neutered Male,7 years,Domestic Shorthair Mix,Blue
+64,A787654,Pepper,3/11/2019 0:00,Mar-19,1/17/2017,Transfer,Partner,Cat,Neutered Male,2 years,Domestic Shorthair Mix,Brown Tabby/White
+65,A709084,Mr. Softie,9/1/2015 17:51,Sep-15,8/4/2008,Transfer,Partner,Cat,Neutered Male,7 years,Domestic Shorthair Mix,Blue
+66,A782492,Bear,10/21/2018 18:28,Oct-18,1/8/2014,Transfer,Snr,Cat,Neutered Male,4 years,Domestic Shorthair Mix,Black
+67,A855454,A855453,4/22/2022 0:00,Apr-22,4/18/2020,Euthanasia,Suffering,Cat,Intact Male,2 years,Domestic Shorthair,Orange Tabby/White
+68,A761383,*Charlie,11/23/2017 15:07,Nov-17,10/12/2017,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue/White
+69,A801121,Precious,8/3/2019 17:09,Aug-19,1/31/2018,Transfer,Partner,Cat,Intact Female,1 year,Domestic Shorthair,Torbie
+70,A676765,*Newton,4/21/2014 13:17,Apr-14,4/14/2012,Transfer,Partner,Cat,Neutered Male,2 years,Domestic Shorthair Mix,Black
+71,A854119,A854119,4/26/2022 15:11,Apr-22,2/15/2022,Adoption,Foster,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black
+72,A668550,*Pushkin,12/20/2013 12:51,Dec-13,12/4/2012,Transfer,Partner,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Brown Tabby
+73,A808560,*Granny Smith,11/13/2019 11:54,Nov-19,9/25/2019,Transfer,Partner,Cat,Intact Female,1 month,Domestic Shorthair,Brown Tabby
+74,A738723,*Celene,12/9/2016 9:20,Dec-16,10/11/2016,Adoption,Foster,Cat,Spayed Female,1 month,Domestic Shorthair,Tortie
+75,A882145,*Javier,8/9/2023 14:29,Aug-23,4/16/2023,Adoption,Foster,Cat,Neutered Male,3 months,Domestic Shorthair,Brown Tabby
+76,A776657,Margarita,10/9/2018 11:29,Oct-18,6/10/2018,Adoption,Foster,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Brown Tabby/White
+77,A879902,*Fluff,5/28/2023 17:29,May-23,3/26/2023,Adoption,Foster,Cat,Spayed Female,2 months,Domestic Shorthair,Black
+78,A819044,*Oliver,8/27/2020 10:43,Aug-20,4/28/2020,Adoption,Foster,Cat,Neutered Male,3 months,Domestic Shorthair,Orange Tabby/White
+79,A819299,*Turkey Lurkey,8/7/2020 14:36,Aug-20,5/25/2020,Adoption,Foster,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Black
+80,A857031,Kit-Kat,5/11/2022 18:57,May-22,10/11/2021,Return to Owner,Field,Cat,Intact Female,6 months,Domestic Shorthair,Tortie
+81,A700106,Mr.Gray,4/20/2015 14:08,Apr-15,4/8/2014,Transfer,Partner,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Blue Tabby
+82,A704378,Picasso,6/30/2015 12:13,Jun-15,6/8/2012,Transfer,Partner,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Blue Tabby
+83,A820080,*Theodore,8/23/2021 9:47,Aug-21,7/11/2013,Adoption,Foster,Cat,Neutered Male,8 years,Domestic Shorthair,Brown Tabby
+84,A802474,156 Grams,8/18/2019 18:00,Aug-19,8/9/2019,Transfer,Partner,Cat,Intact Female,1 weeks,Domestic Shorthair Mix,Tortie
